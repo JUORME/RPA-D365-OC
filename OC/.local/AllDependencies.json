@@ -1785,15 +1785,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JuniorOM\\.nuget\\packages\\": {}
+    "C:\\Users\\junio\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Almances_Recepcion",
       "projectName": "Almances_Recepcion",
-      "projectPath": "C:\\Users\\JuniorOM\\Documents\\UiPath\\Almances_Recepcion\\.local",
-      "packagesPath": "C:\\Users\\JuniorOM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JuniorOM\\Documents\\UiPath\\Almances_Recepcion\\.local"
+      "projectPath": "D:\\Github\\RPA-D365-OC\\OC\\.local",
+      "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
+      "outputPath": "D:\\Github\\RPA-D365-OC\\OC\\.local"
     },
     "frameworks": {
       "net461": {
